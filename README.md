@@ -24,11 +24,8 @@ A simple command-line application that allows you to download YouTube videos in 
    ```bash
    python your_script_name.py
 
-
 ### Customization
 
 - Replace `yourusername` and `your_script_name.py` with your actual GitHub username and the name of your Python script.
-- You can add or modify sections as needed, such as adding screenshots or additional features.
 
-Feel free to let me know if you need any more changes!
 
